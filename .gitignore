@@ -1,0 +1,16 @@
+## Visual Studio
+.vs/
+
+## Build
+bin/
+obj/
+
+## NuGet
+packages/
+
+## User-specific
+*.user
+*.suo
+
+## Secrets
+appsettings.Development.json

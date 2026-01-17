@@ -1,0 +1,6 @@
+@ASTDOTNET_HostAddress = http://localhost:5187
+
+GET {{ASTDOTNET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
